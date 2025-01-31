@@ -15,3 +15,10 @@ El entrenamiento de fuerza (o entrenamiento de resistencia) utiliza la resistenc
 1. Comienza con un peso que puedas levantar 12 a 15 veces. 
 2. A medida que aumentes tu fuerza, puedes levantar pesos más pesados. 
 3. No intentes levantar pesos que te sobrecarguen o te causen dolor. 
+
+## Consejos
+- No omitas el calentamiento. Es más probable que los músculos fríos sufran lesiones que los músculos en calor.
+- No te apures. Mueve las pesas de manera lenta y controlada.
+- No te exijas demasiado.
+- No ignores el dolor. 
+- No te olvides del calzado.
