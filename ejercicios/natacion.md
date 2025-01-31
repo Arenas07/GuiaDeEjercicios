@@ -16,4 +16,10 @@ La natación es el arte de sostenerse y avanzar, usando los brazos y las piernas
 3. Toma decisiones si es necesario
 4. Descansa siempre que sea necesario
 
+## Consejos
+- No te olvides de la salud mental
+- No te olvides de la salud física
+- No te olvides de la salud de las demás personas
+- No te olvides de tus propias necesidades
+
 
