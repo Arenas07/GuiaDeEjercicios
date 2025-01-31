@@ -8,6 +8,12 @@ La natación es el arte de sostenerse y avanzar, usando los brazos y las piernas
 - Es un ejercicio completo.
 - Es un quemagrasa comprobado.
 - Aumenta la flexibilidad
--  Mejora el aparato respiratorio y cardiovascular
+- Mejora el aparato respiratorio y cardiovascular
+
+## Instrucciones
+1. Controla la ansiedad
+2. No empujes a las demás personas
+3. Toma decisiones si es necesario
+4. Descansa siempre que sea necesario
 
 
