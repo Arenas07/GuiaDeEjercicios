@@ -15,3 +15,12 @@ El ejercicio de flexibilidad es solo otra palabra para estirar. En pocas palabra
 2. Estira los principales grupos musculares, como los muslos, las caderas, las pantorrillas, el cuello, los hombros y la región lumbar. 
 3. Haz estiramientos específicos para el deporte que practicas. 
 4. Si sientes dolor agudo o punzante, o dolor en las articulaciones, significa que debes parar. 
+
+## Consejos
+- Mantener el movimiento en la rutina.
+- Calentamiento adecuado del cuerpo.
+- Incorporar el uso del rodillo de espuma.
+- Estiramientos específicos.
+- Hacer pilates para mejorar la flexibilidad.
+- Practicar tai chi.
+- Consistencia en el estiramiento.
