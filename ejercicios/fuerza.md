@@ -10,3 +10,8 @@ El entrenamiento de fuerza (o entrenamiento de resistencia) utiliza la resistenc
 - Previene catarros y enfermedades.
 - Reduce el dolor de espalda y articulaciones.
 - Reduce las molestias relacionadas con la artrosis.
+
+## Instrucciones
+1. Comienza con un peso que puedas levantar 12 a 15 veces. 
+2. A medida que aumentes tu fuerza, puedes levantar pesos más pesados. 
+3. No intentes levantar pesos que te sobrecarguen o te causen dolor. 
