@@ -15,3 +15,10 @@ Método gimnástico que aúna el ejercicio corporal con el control mental, basad
 2. Realiza el ejercicio de forma continua.
 3. No te quedes con el peso.
 
+## Consejos
+- Busca un instructor cualificado.
+- Respira correctamente.
+- Empieza con ejercicios básicos
+- Prepara tu mente
+
+
