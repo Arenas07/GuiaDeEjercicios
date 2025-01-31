@@ -21,3 +21,10 @@ El estiramiento funcional es un tipo de entrenamiento que combina posturas, resp
 7. Evitar el dolor agudo o punzante.
 8. No estirar demasiado.
 9. Mantener ligeramente flexionadas las articulaciones.
+
+## Consejos
+- Calienta 
+- Hazlo suave y lento
+- Respira
+- No te fuerces
+- Manten el estiramiento
