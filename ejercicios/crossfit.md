@@ -9,3 +9,8 @@ CrossFit se define como un sistema de entrenamiento de fuerza y acondicionamient
 - Mejora la Psicomotricidad.
 - Fortalece la musculatura.
 - Un cuerpo más estilizado.
+
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos.
+2. Haz estiramientos y enfriamientos frecuentemente.
+3. No te quedes con el peso.
