@@ -13,13 +13,23 @@ El ciclismo es un deporte simétrico que se practica con un elemento mecánico (
 - Prolongas tus expectativa de vida
 
 ## Instrucciones
-- Respetar los semáforos y los pasos de peatones.
-- Ceder el paso a los peatones.
-- Usar casco protector.
-- No usar auriculares mientras se conduce.
-- No circular en pelotón.
-- No adelantar por la derecha o entre vehículos.
-- Usar las señales manuales para cambiar de carril y cruzar.
-- Seguir las mismas trayectorias que los vehículos de motor.
-- No zigzaguear.
-- Circular por el arcén, salvo para tomar curvas en pendiente.
+1. Respetar los semáforos y los pasos de peatones.
+2. Ceder el paso a los peatones.
+3. Usar casco protector.
+4. No usar auriculares mientras se conduce.
+5. No circular en pelotón.
+6. No adelantar por la derecha o entre vehículos.
+7. Usar las señales manuales para cambiar de carril y cruzar.
+8. Seguir las mismas trayectorias que los vehículos de motor.
+9. No zigzaguear.
+10. Circular por el arcén, salvo para tomar curvas en pendiente.
+
+## Consejos
+- Elige la bicicleta correcta.
+- Hidrátate y aliméntate de forma correcta.
+- Escucha a tu cuerpo.
+- Dosifica el esfuerzo.
+- Evita calambres.
+- Busca compañía.
+- No elijas rutas difíciles.
+- Sé prevenido con el clima.
