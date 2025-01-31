@@ -9,3 +9,9 @@ Método gimnástico que aúna el ejercicio corporal con el control mental, basad
 - Mejora la flexibilidad.
 - Mejora la capacidad de respiración.
 - Mejora la capacidad de relajarse.
+
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos.
+2. Realiza el ejercicio de forma continua.
+3. No te quedes con el peso.
+
