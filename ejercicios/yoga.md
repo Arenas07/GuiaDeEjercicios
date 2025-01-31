@@ -2,3 +2,9 @@
 
 ## Descripción
 El yoga es una práctica que conecta el cuerpo, la respiración y la mente. Esta práctica utiliza posturas físicas, ejercicios de respiración y meditación para mejorar la salud general. El yoga se desarrolló como una práctica espiritual hace miles de años.
+
+## Beneficios
+- Mejora la salud general.
+- Mejora la postura.
+- Mejora la respiración.
+- Mejora la capacidad de concentración.
