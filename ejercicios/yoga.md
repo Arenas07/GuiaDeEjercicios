@@ -14,3 +14,9 @@ El yoga es una práctica que conecta el cuerpo, la respiración y la mente. Esta
 2. Ve a un espacio tranquilo
 3. Bebe agua 15 minutos antes de comenzar
 4. No comas antes de comenzar
+
+## Consejos
+- Avanza de forma gradual
+- Respeta tu cuerpo, tus capacidades.
+- Utiliza una esterilla adecuada.
+- El dolor es un aviso.
